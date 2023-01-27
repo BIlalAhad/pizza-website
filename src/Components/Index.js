@@ -18,7 +18,7 @@ export default function Index() {
             <p>Lorem ipsum dolor sit amet consectetur.</p>
           </div>
 
-        <section className='grid grid-flow-col grid-cols-3 gap-3 sm:gap-4 max-w-5xl mx-auto'>
+        <section className='grid grid-flow-col grid-cols-3 gap-3 sm:gap-4 max-w-5xl mx-auto px-5 sm:px-0'>
           <div className='text-center'>
             <img className='rounded-lg hover:brightness-50' src={pizza2} alt="" />
             <p className='mt-2'>Lorem ipsum dolor sit.</p>
